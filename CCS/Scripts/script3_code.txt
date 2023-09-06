@@ -1,0 +1,10 @@
+inc_lcd 10
+set_delay 30
+dec_lcd 20
+clear_lcd
+servo_deg 35
+inc_lcd 20
+servo_scan 0,60
+servo_scan 10,70
+servo_scan 20,80
+sleep
