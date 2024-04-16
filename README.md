@@ -38,10 +38,10 @@ For detailed information, check my pdf.
 - Identifies light sources within a 180-degree scan. 
 ![image](https://github.com/talshva/DCS-Final-Project/assets/82408347/edeb1809-076b-4046-86cb-157117f492ec)
 ![image](https://github.com/talshva/DCS-Final-Project/assets/82408347/2a8f3f0b-8464-4606-9bba-366e35286ba1)
+![image](https://github.com/talshva/DCS-Final-Project/assets/82408347/89062fac-5eb9-43ed-911a-34a5cf91a196)
 
 ### Calibration Process:
 - Involves linear interpolation based on multiple samples to accurately calibrate sensor readings, adjust to varying environmental conditions.
-![image](https://github.com/talshva/DCS-Final-Project/assets/82408347/89062fac-5eb9-43ed-911a-34a5cf91a196)
 ![image](https://github.com/talshva/DCS-Final-Project/assets/82408347/f299bc63-daad-47dd-9ec8-6ac49e8b3ff3)
 
 ### Integrated Detection of Light Sources and Objects (Bonus)
