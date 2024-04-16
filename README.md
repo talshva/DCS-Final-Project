@@ -1,4 +1,4 @@
-![image](https://github.com/talshva/DCS-Final-Project/assets/82408347/a5927da7-4cda-444c-92bb-2f2e96de3e99)# DCS Final Project - Object and Light Source Detection System
+# DCS Final Project - Object and Light Source Detection System
 
 ## Project Overview
 
